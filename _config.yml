@@ -9,14 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Kemal KARAKAS
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Kemal KARAKAS
+  email : kmlkarakas@gmail.com
+  github : kmlkarakas
+  twitter : KemalKARAKASS
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://kmlkarakas.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -82,8 +81,8 @@ JB :
   #
   comments :
     provider : disqus
-    disqus :
-      short_name : jekyllbootstrap
+    disqus : 
+      short_name : kemalkarakas
     livefyre :
       site_id : 123
     intensedebate :
@@ -92,7 +91,7 @@ JB :
       appid : 123
       num_posts: 5
       width: 580
-      colorscheme: light
+      colorscheme: dark
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
